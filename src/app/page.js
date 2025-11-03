@@ -41,7 +41,7 @@ export default function Home() {
         <div className="bg-orange-50 border border-orange-100 rounded-lg p-6 flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
           <div>
             <h3 className="text-xl md:text-2xl font-bold text-orange-red">
-              Your gift changes a child's future
+              Your gift changes a child&#39;s future
             </h3>
             <p className="text-sm md:text-base mt-1 text-black/80">
               Donate once, set up a monthly gift, or sponsor a child’s

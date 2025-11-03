@@ -47,6 +47,7 @@ function OurImpact({ ourImpactRef }) {
               <img
                 src="https://readymadeui.com/team-2.webp"
                 className="w-14 h-14 rounded-full border-4 border-white"
+                alt="Beneficiary portrait"
               />
               <div>
                 <h4 className="text-gray-800 text-sm whitespace-nowrap font-bold">
@@ -70,6 +71,7 @@ function OurImpact({ ourImpactRef }) {
               <img
                 src="https://readymadeui.com/team-1.webp"
                 className="w-14 h-14 rounded-full border-4 border-white"
+                alt="Beneficiary portrait"
               />
               <div>
                 <h4 className="text-gray-800 text-sm whitespace-nowrap font-bold">
@@ -95,6 +97,7 @@ function OurImpact({ ourImpactRef }) {
               <img
                 src="https://readymadeui.com/team-4.webp"
                 className="w-14 h-14 rounded-full border-4 border-white"
+                alt="Beneficiary portrait"
               />
               <div>
                 <h4 className="text-gray-800 text-sm whitespace-nowrap font-bold">
@@ -117,6 +120,7 @@ function OurImpact({ ourImpactRef }) {
               <img
                 src="https://readymadeui.com/team-4.webp"
                 className="w-14 h-14 rounded-full border-4 border-white"
+                alt="Beneficiary portrait"
               />
               <div>
                 <h4 className="text-gray-800 text-sm whitespace-nowrap font-bold">
