@@ -83,17 +83,6 @@ function Header({
             <li className="max-lg:border-b max-lg:py-3 px-3">
               <button
                 onClick={() => {
-                  handleWhereWeWorkDiv();
-                  handleToggleMenu();
-                }}
-                className="lg:hover:text-[#FF4500] mt-2 text-black block font-medium text-[15px] hover:underline underline-offset-4"
-              >
-                Where We Work
-              </button>
-            </li>
-            <li className="max-lg:border-b max-lg:py-3 px-3">
-              <button
-                onClick={() => {
                   handleourImpactDiv();
                   handleToggleMenu();
                 }}
@@ -102,6 +91,18 @@ function Header({
                 Our Impact
               </button>
             </li>
+            <li className="max-lg:border-b max-lg:py-3 px-3">
+              <button
+                onClick={() => {
+                  handleWhereWeWorkDiv();
+                  handleToggleMenu();
+                }}
+                className="lg:hover:text-[#FF4500] mt-2 text-black block font-medium text-[15px] hover:underline underline-offset-4"
+              >
+                Where We Work
+              </button>
+            </li>
+
             <li className="max-lg:border-b max-lg:py-3 px-3">
               <a
                 className="text-white bg-gradient-to-r from-orange-red to-rose-500 px-4 py-2 lg:right-4 lg:fixed ml-0 shadow-lg rounded-full"
