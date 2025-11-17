@@ -16,8 +16,7 @@ const geistMono = localFont({
 
 export const metadata = {
   title: "Leki Charity Foundation | Empowering Education for Every Child",
-  description:
-    "Leki Charity Foundation relies on donations to provide access to quality education for underprivileged children.",
+  description: "Designed by Keith Ocitti",
 };
 
 export default function RootLayout({ children }) {
